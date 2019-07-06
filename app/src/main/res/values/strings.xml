@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="start">Начать</string>
+    <string name="email">Введите email</string>
+    <string name="password">Введите пароль</string>
+    <string name="descr">Введите ваш логин и пароль, чтобы продолжить</string>
 </resources>
